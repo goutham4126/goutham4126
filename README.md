@@ -29,20 +29,7 @@ I'm always excited to discuss new ideas, tech, and collaborations! Feel free to 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-# 📊 GitHub Stats & Contributions
-
-<!-- Main GitHub Stats (Commits, PRs, Issues, Stars, etc.) -->
-![Goutham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goutham4126&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goutham4126&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- PRs, Issues, and Contributions (GitHub Streak) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=goutham4126&theme=gruvbox&hide_border=false)
-
-<!-- Contributions Graph -->
-![Goutham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=goutham4126&theme=gruvbox)
-
-<!-- Metrics (detailed contributions, PRs, repos, etc.) -->
-![Metrics](https://metrics.lecoq.io/goutham4126?template=classic&base.header=0&isocalendar=1&languages=1&stars=1&people=1&lines=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=goutham4126&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=goutham4126&icon=0&color=0)](https://visitcount.itsvg.in)
