@@ -1,75 +1,112 @@
-# 👋 Hello peeps
-I'm **Goutham Pichiguntla**, a passionate **Next.js Developer** and **Co-founder of Tutly** – a powerful **Learning Management System (LMS)** dedicated to enhancing the learning experience.
+# 👋 Hello, I'm Goutham Pichiguntla, Currently pursuing final year of B.tech in Computer Science at VNRVJIET
+
+<div align="center">
+  <img width="250" height="250" alt="Goutham's Avatar" src="https://github.com/user-attachments/assets/b212c23f-8605-4634-b87c-8b6b04686e88" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255,255,255,0.3);" />
   
-At Tutly, we’re building intuitive, effective tools for learners and educators alike.  
-
-👉 Explore Tutly <a href="https://learn.tutly.in" target="_blank">here 🌐</a>  
-
----
-
-## 🚀 About Me
-- 🖥️ **Specialization:** Full Stack Web Development  
-- 💡 **Vision:** Building dynamic, responsive, and accessible platforms  
-- 🤝 Open to: Collaborations, Ideas, Hackathons, and Projects  
+  ### 🚀 Full Stack Developer | 🏆 7X National Level Hackathon Winner | Competetive Programmer
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=600&lines=Building+the+future+one+line+of+code+at+a+time;Co-founder+of+Tutly+-+Transforming+Education;Next.js+Enthusiast+%26+Full+Stack+Architect;Hackathon+Champion+with+5%2B+National+Wins)](https://git.io/typing-svg)
+</div>
 
 ---
 
-## 📬 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-goutham-6a49292a6/)  
-📩 **Email:** goutham4126@gmail.com  
-🌍 **Portfolio:** [goutham.website](https://goutham.website)  
+
+### 🌟 Co-founder of Tutly - Revolutionizing Education
+At **Tutly**, we're not just building another LMS. We're bringing students, mentors and educators across boundaries to single platform.
+
+👉 **Experience the Future of Learning:** <a href="https://learn.tutly.in" target="_blank">Tutly Platform 🚀</a>
 
 ---
 
-# 🛠️ Tech Stack
+## 🏆 Champion's Journey
 
-### 🌐 Frontend
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+### 🥇 **Recent Victories**
+- **Nexovate-2025 National Hackathon Winner** - Geetanjali College of Engineering
+- **Krithoathon 3.0 Champion** - Defeated 400+ teams nationwide
+- **Design-A-Thon Runner-up** - 2nd among 536 teams across India
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
+### 🎖️ **Hall of Fame**
+- 🏆 **3x National Hackathon Winner** (2024-2025)
+- 🎯 **Top 1000 Global** (out of 45K+) - Smart Interviews Diamond Certificate
+- 🌟 **Top 0.1% Mathematics** - National Merit Recognition
+- 🚀 **Google Solution Challenge** - Multiple recognitions
 
-### 🗄️ Databases & Deployment
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+<details>
+<summary>📜 <strong>View All Achievements</strong></summary>
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+- 🥇 **Winner - Nexovate-2025** at Geetanjali College | [Certificate](https://drive.google.com/file/d/1-rDoET87_B4CPxUv5jYJnOKBO1-a06kP/view?usp=sharing)
+- 🥇 **Winner - Krithoathon 3.0** (400+ teams) | [Certificate](https://drive.google.com/file/d/1zbJAJ2obK1rh8GTmwP0TjHs5aCNfCWmz/view?usp=sharing)
+- 🥇 **Winner - Krithoathon 2.0** | [Certificate](https://drive.google.com/file/d/11KJ_9xemKHMfnxicNnoZMvdGYNItxBVH/view?usp=sharing)
+- 🥈 **2nd Place - Design-A-Thon** (536 teams) | [Certificate](https://drive.google.com/file/d/1lEeL8_TcDemXbTkHF4luSLJ3T9jiD33U/view?usp=sharing)
+- 🥉 **3rd Place - Google Solution Challenge** | [Certificate](https://drive.google.com/file/d/1PKh8A6C2NlshXKzuLNEPI3drsVe-UpSS/view?usp=sharing)
+- 🎖️ **SDG-4 Honorable Mention** - IIT Hyderabad | [Certificate](https://drive.google.com/file/d/1gr1dEyIDEwTO6ATQLqoMigcxZxRRuFsi/view?usp=sharing)
+- 💎 **Diamond Certificate** - Top 1000/45K+ Smart Interviews | [Certificate](https://smartinterviews.in/certificate/7356f45a/)
 
-### 🛠️ Tools & Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+</details>
 
 ---
 
-# 📊 GitHub Stats
+## 💻 Tech Arsenal
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goutham4126&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+<div align="center">
+
+### 🎨 Frontend Mastery
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚡ Backend Power
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### 🗃️ Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🛠️ Core Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</div>
 
 ---
 
-# 🏆 Achievements & Highlights
-- 🥇 **Winner - Nexovate-2025 National Hackathon** at Geetanjali College of Engineering. [📄 Certificate](https://drive.google.com/file/d/1-rDoET87_B4CPxUv5jYJnOKBO1-a06kP/view?usp=sharing)  
-- 🥇 **1st Place - Krithoathon 3.0** (National-level hackathon with 400+ teams) hosted by VNR VJIET, 2025. [📄 Certificate](https://drive.google.com/file/d/1zbJAJ2obK1rh8GTmwP0TjHs5aCNfCWmz/view?usp=sharing)  
-- 🏆 **Winner - Krithoathon 2.0 Hackathon** supervised by Krithomedh, 2024. [📄 Certificate](https://drive.google.com/file/d/11KJ_9xemKHMfnxicNnoZMvdGYNItxBVH/view?usp=sharing)  
-- 🥈 **2nd Place - Design-A-Thon Hackathon**, competed among 536 teams across India, VNR VJIET, 2025. [📄 Certificate](https://drive.google.com/file/d/1lEeL8_TcDemXbTkHF4luSLJ3T9jiD33U/view?usp=sharing)  
-- 🥉 **3rd Place - Google Solution Challenge**, organized by Google Developer Student Clubs, 2025. [📄 Certificate](https://drive.google.com/file/d/1PKh8A6C2NlshXKzuLNEPI3drsVe-UpSS/view?usp=sharing)  
-- 🎖️ **Honorable Mention** for **SDG-4 (Quality Education)** at IIT Hyderabad (Hack4SDG, AIESEC), 2024. [📄 Certificate](https://drive.google.com/file/d/1gr1dEyIDEwTO6ATQLqoMigcxZxRRuFsi/view?usp=sharing)  
-- 🎯 **Top 1000 Global Rank** (out of 45,000+) in **Smart Interviews** with Diamond Certificate. [📄 Certificate](https://smartinterviews.in/certificate/7356f45a/)  
-- 🎉 **Consolation Prize** in Google Solution Challenge, Google DSC, 2023. [📄 Certificate](https://drive.google.com/file/d/1IEJahwC7eVoqwQo3t7osdG5X2joHTJro/view?usp=sharing)  
-- 📘 **Certificate of Merit** – Ranked in **Top 0.1%** in Mathematics Standard Exam, 2020. [📄 Certificate](https://drive.google.com/file/d/1rOePo9sz1khlzrqXoRHG8LsKlVgTvFaf/view?usp=sharing)  
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goutham4126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutham4126&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=goutham4126&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 What I'm Building
+- **Tutly Platform**: Next-gen Learning Management System
+- **AI-Powered Solutions**: Integrating ML for personalized education
+- **Open Source Projects**: Contributing to the developer community
+
+---
+
+## 🤝 Let's Create Something Amazing
+
+<div align="center">
+
+### 💬 Ready to collaborate on your next big idea?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-goutham-6a49292a6/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://goutham.website)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goutham4126@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=goutham4126&label=Profile%20views&color=0e75b6&style=flat" alt="goutham4126" />
+  
+  **💡 "Innovation distinguishes between a leader and a follower" - Steve Jobs**
+</div>
