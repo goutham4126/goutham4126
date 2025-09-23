@@ -1,22 +1,16 @@
-# 👋 Hello, I'm Goutham Pichiguntla, Currently pursuing final year of B.tech in Computer Science at VNRVJIET
+# 👋 Hello, I'm Goutham Pichiguntla
 
-<div align="center">
-  <img width="250" height="250" alt="Goutham's Avatar" src="https://github.com/user-attachments/assets/b212c23f-8605-4634-b87c-8b6b04686e88" style="border-radius: 50%; box-shadow: 0 0 20px rgba(255,255,255,0.3);" />
-  
-  ### 🚀 Full Stack Developer | 🏆 7X National Level Hackathon Winner | Competetive Programmer
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=600&lines=Building+the+future+one+line+of+code+at+a+time;Co-founder+of+Tutly+-+Transforming+Education;Next.js+Enthusiast+%26+Full+Stack+Architect;Hackathon+Champion+with+5%2B+National+Wins)](https://git.io/typing-svg)
+<div align="center">  
+  <h3>🚀 Full Stack Developer | 🏆 Multiple National Level Hackathon Winner | 🚀 Competitive Programmer</h3>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=600&lines=Building+the+future+one+line+of+code+at+a+time;Co-founder+of+Tutly+-+Transforming+Education;Next.js+Enthusiast+%26+Full+Stack+Architect;Hackathon+Champion+with+5%2B+National+Wins" />
+  </a>
 </div>
 
----
-
-
-### 🌟 Co-founder of Tutly - Revolutionizing Education
-At **Tutly**, we're not just building another LMS. We're bringing students, mentors and educators across boundaries to single platform.
-
-👉 **Experience the Future of Learning:** <a href="https://learn.tutly.in" target="_blank">Tutly Platform 🚀</a>
 
 ---
+
 
 ## 🏆 Champion's Journey
 
@@ -81,6 +75,13 @@ At **Tutly**, we're not just building another LMS. We're bringing students, ment
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goutham4126&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goutham4126&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
+---
+
+### 🌟 Co-founder of Tutly - Revolutionizing Education
+At **Tutly**, we're not just building another LMS. We're bringing students, mentors and educators across boundaries to single platform.
+
+👉 **Experience the Future of Learning:** <a href="https://learn.tutly.in" target="_blank">Tutly Platform 🚀</a>
 
 ---
 
